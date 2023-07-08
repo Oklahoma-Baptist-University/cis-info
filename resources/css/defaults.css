@@ -218,6 +218,15 @@ footer p {
 
 }
 
+.small-separator {
+
+    border-color: black;
+    background-color: black;
+    margin: 1rem;
+    padding: 0.05rem;
+
+}
+
 @media screen and (max-width: 768px) {
 
     nav {
